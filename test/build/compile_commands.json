@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/root/projects/chat/test/build",
+  "command": "/usr/bin/g++     -g -g   -o CMakeFiles/testmuduo02.dir/testmuduo02.cpp.o -c /root/projects/chat/test/testmuduo02.cpp",
+  "file": "/root/projects/chat/test/testmuduo02.cpp"
+}
+]
